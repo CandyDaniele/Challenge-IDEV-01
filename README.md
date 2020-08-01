@@ -26,4 +26,4 @@
 
 
 **Nomes:** Daniele Candy, Vinicus Emidio.
-- **Link GitHub pages:**
+- **Link GitHub pages:** https://candydaniele.github.io/Challenge-IDEV-01/
