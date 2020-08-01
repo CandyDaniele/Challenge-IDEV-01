@@ -3,8 +3,8 @@ Challenge 01 - community IDEV - Git and GitHub
 
 
 >#**Passo 1:**
-    >1.1-MA: Criar um repositório remoto comunidade-IDEV com Licença MIT e um arquivo .gitignore ;
-    >1.2-MA: Fornecer acesso de colaborador ao MB;
+ >   1.1-MA: Criar um repositório remoto comunidade-IDEV com Licença MIT e um arquivo .gitignore ;
+ >    1.2-MA: Fornecer acesso de colaborador ao MB;
     >1.3-MA: Clonar o repositório para o hambiente local.
 >#**Passo 2:**
     >2.1-MB: Clonar o repositório para o hembiente local;
